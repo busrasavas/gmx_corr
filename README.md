@@ -10,6 +10,7 @@ Dynamic cross correlation analysis (DCCA) is commonly used for interpreting mole
 **Quick Example(s)**
 
 .. code-block:: python
+
     #Load the output file of GROMACS covar ascii.
     covar = pd.read_csv(r'../application_example/covar-3a-cgc.dat', sep=' ', header=None)
     
