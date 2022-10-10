@@ -2,6 +2,8 @@
 
 THIS REPO IS UNDER DEVELOPMENT, please contact with ezgi.karaca@ibg.edu.tr before using!
 
+[![DOI](https://zenodo.org/badge/436035260.svg)](https://zenodo.org/badge/latestdoi/436035260)
+
 #### by A. Berçin Barlas, Büşra Savaş and Ezgi Karaca
 
 ## Motivation
