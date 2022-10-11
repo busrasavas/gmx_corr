@@ -21,7 +21,7 @@ Dynamic cross correlation analysis (DCCA) is commonly used for interpreting mole
 ```
 ## Our folders describe:
 
-- **inputs:** contains our test input files
+- **input:** contains our test input files
 - **outputs:** contains our test output files
 - **jupyter-notebook:** contains the jupyter notebook script to convert covar matrix to a cross correlation matrix and its heatmap.
   
